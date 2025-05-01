@@ -24,6 +24,7 @@ A machine learning-powered ransomware scanner that analyzes Windows PE files (`.
 Ransomware-AI-Detection-System/
 ├── model/                  # Contains rf_model.pkl
 ├── utils/                  # Feature extraction utils
+├── Final_Dataset_without_duplicate.csv
 ├── manual_labels.csv       # Manually labeled file log
 ├── scanner.py              # Main terminal scanner tool
 ├── train_model.ipynb       # Training notebook
