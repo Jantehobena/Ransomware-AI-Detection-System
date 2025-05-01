@@ -1,4 +1,0 @@
-Ransomware Scan Report - 2025-04-27 17:43:27
-Scanned Folder: C:\Users\91810\Desktop\Test
-
-No ransomware detected.
