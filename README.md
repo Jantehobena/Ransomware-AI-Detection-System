@@ -26,7 +26,7 @@ Ransomware-AI-Detection-System/
 ├── utils/                  # Feature extraction utils
 ├── Final_Dataset_without_duplicate.csv
 ├── manual_labels.csv       # Manually labeled file log
-├── scanner.py              # Main terminal scanner tool
+├── scanner.ipynb              # Main terminal scanner tool
 ├── train_model.ipynb       # Training notebook
 ├── scan_report.txt         # Auto report output
 ├── README.md               # GitHub description
@@ -37,10 +37,8 @@ Ransomware-AI-Detection-System/
 ---
 
 ### 💻 Usage
-```bash
-python scanner.py
-# or retrain directly
-python scanner.py --retrain
+```Git bash
+jupyter Notebook scanner.ipynb
 ```
 
 ---
