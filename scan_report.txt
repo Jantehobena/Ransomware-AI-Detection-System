@@ -1,0 +1,5 @@
+Ransomware Scan Report - 2025-04-27 18:56:13
+Scanned Folder: C:\Users\91810\Desktop\test2
+
+Suspicious Files Detected:
+- C:\Users\91810\Desktop\test2\New Text Document2.exe
