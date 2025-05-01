@@ -38,6 +38,7 @@ Ransomware-AI-Detection-System/
 ### 💻 Usage
 ```Git bash
 jupyter Notebook scanner.ipynb
+Shift+Enter
 ```
 
 ---
