@@ -58,10 +58,6 @@ This info is saved and used for future prediction + retraining.
 ### 📈 Model Training
 Model automatically retrains when ≥10 new samples are labeled, or manually via `--retrain`.
 
----
-
-### 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
