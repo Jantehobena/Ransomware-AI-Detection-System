@@ -2,7 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Jantehobena/Ransomware-AI-Detection-System?style=social)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/github/license/Jantehobena/Ransomware-AI-Detection-System)
 
 #### 🛡️ Description
 A machine learning-powered ransomware scanner that analyzes Windows PE files (`.exe`, `.dll`) by extracting features like entropy, headers, and section patterns. Supports manual labeling and incremental retraining.
